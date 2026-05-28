@@ -1,8 +1,8 @@
-```markdown
+
 # Global Solutions 2026: Monitoramento de Desastres Ambientais
 ## 👥 Integrantes (Ordem Alfabética)
 * [cite_start]**Filipe Santos** - RM572828 [cite: 1]
-* [cite_start]**Mariana Ayumi Dantas Kuramitsu** - RM57278 [cite: 1]
+* [cite_start]**Mariana Ayumi Dantas Kuramitsu** - RM572788 [cite: 1]
 * [cite_start]**Yasmin Yumi Tsunokawa** (REPRESENTANTE) - RM569408 [cite: 1, 4]
 
 ---
@@ -29,6 +29,7 @@
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/Tsunokaway/space_connect-spacial_data-data-driven.git](https://github.com/Tsunokaway/space_connect-spacial_data-data-driven.git)
+    ```
 ---
 
 2. **Navegue até o diretório do projeto:**:
