@@ -1,17 +1,17 @@
 
 # Global Solutions 2026: Monitoramento de Desastres Ambientais
 ## 👥 Integrantes (Ordem Alfabética)
-* [cite_start]**Filipe Santos** - RM572828 [cite: 1]
-* [cite_start]**Mariana Ayumi Dantas Kuramitsu** - RM572788 [cite: 1]
-* [cite_start]**Yasmin Yumi Tsunokawa** (REPRESENTANTE) - RM569408 [cite: 1, 4]
+* **Filipe Santos** - RM572828 [cite: 1]
+* **Mariana Ayumi Dantas Kuramitsu** - RM572788 [cite: 1]
+* **Yasmin Yumi Tsunokawa** (REPRESENTANTE) - RM569408 [cite: 1, 4]
 
 ---
 
 ## 📅 Informações Acadêmicas
-* [cite_start]**Curso:** Data Science [cite: 1]
-* [cite_start]**Disciplina:** Data Driven Application & Data Science [cite: 1]
-* [cite_start]**Professora:** Patrícia Angelini [cite: 1]
-* [cite_start]**Avaliação:** 2026 - 1ª Global Solutions [cite: 1]
+* **Curso:** Data Science [cite: 1]
+* **Disciplina:** Data Driven Application & Data Science [cite: 1]
+* **Professora:** Patrícia Angelini [cite: 1]
+* **Avaliação:** 2026 - 1ª Global Solutions [cite: 1]
 
 ---
 ## 📋 Sobre o Projeto
